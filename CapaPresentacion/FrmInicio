@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace CapaPresentacion
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnSalirProgram_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private Form formActivo = null;
+        public void abrirFormsHijos(Form formHijo)
+        {
+            if (formActivo != null)
+                formActivo.Close();
+            formActivo = formHijo;
+            formHijo.TopLevel = false;
+            formHijo.FormBorderStyle = FormBorderStyle.None;
+            formHijo.Dock = DockStyle.Fill;
+            panelFormHijo.Controls.Add(formHijo);
+            panelFormHijo.Tag = formHijo;
+            formHijo.BringToFront();
+            formHijo.Show();
+        }
+
+        private void btnAltaClientes_Click(object sender, EventArgs e)
+        {
+            abrirFormsHijos(new Form2());
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

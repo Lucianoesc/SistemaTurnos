@@ -1,0 +1,42 @@
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Luciano\OneDrive\Escritorio\Apuntes, parciales\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInicio.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantenimiento.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEspecialidades.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMedicos.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPacientes.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTurnos.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.MdPaciente.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.MdMedico.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleTurno.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTurnos.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHistoriaClinica.resources
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteHistoriaClinica.resources

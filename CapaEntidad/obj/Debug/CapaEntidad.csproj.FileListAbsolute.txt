@@ -1,0 +1,6 @@
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Luciano\OneDrive\Escritorio\SistemaTurnos\CapaEntidad\obj\Debug\CapaEntidad.pdb
